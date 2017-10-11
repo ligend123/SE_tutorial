@@ -3,7 +3,9 @@
 using namespace std;
 
 int main(){
-cout<<"HELLO WORLD\n";
-cout<<"hotfix to master branch";
+
+cout<<"work on branch\n";
+cout<<"this will create merge conflict";
+>>>>>>> main
 return 0;
 }
